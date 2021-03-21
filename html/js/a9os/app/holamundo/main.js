@@ -15,5 +15,5 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.*/
 a9os_app_holamundo_main.main = (data) => {
-	if (data.window) a9os_core_window.processWindowData(data);	
+	if (data.window) a9os_core_window.processWindowData(data);	//test
 }
